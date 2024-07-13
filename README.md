@@ -1,6 +1,11 @@
 # Hider
 ---
+
+# Обязательно запуск от имени администратора/Must run as an administrator
+
+---
 Russian:
+
 🪪Данная программа создана с целью троллинга админов и прохождения проверок на читы.
 
 🆘Как пользоваться:
@@ -29,7 +34,8 @@ Russian:
 ---
 
 English:
-This program was created for the purpose of trolling admins and passing checks for cheats.
+
+🪪This program was created for the purpose of trolling admins and passing checks for cheats.
 
 
 
