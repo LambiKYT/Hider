@@ -5,7 +5,7 @@ Russian:
 
 🆘Как пользоваться:
 
-# Для начала необходимо иметь телеграм бота (токен телеграм бота), его можно создать в BotFather (можете найти в интернете, там нет ничего сложного)
+Для начала необходимо иметь телеграм бота (токен телеграм бота), его можно создать в BotFather (можете найти в интернете, там нет ничего сложного)
 - Запустите Hider.exe и вставьте туда токен телеграм бота.
 
 - Перейдите в своего телеграм бота и пропишите /start
@@ -25,7 +25,9 @@ Russian:
 /close - прекращает работу программы и бота
 
 /hideall - запрещает запуск программ и бесконечно выключает функцию просмотра скрытых файлов (Everything, ShellBag, AnyDesk, Process Hacker, Диспетер задач)
+
 ---
+
 English:
 This program was created for the purpose of trolling admins and passing checks for cheats.
 
@@ -33,7 +35,7 @@ This program was created for the purpose of trolling admins and passing checks f
 
 🆘How to use it:
 
-# First you need to have a telegram bot (telegram bot token), you can create it in BotFather (you can find it on the Internet, there is nothing complicated there)
+First you need to have a telegram bot (telegram bot token), you can create it in BotFather (you can find it on the Internet, there is nothing complicated there)
 
 - Run Hider.exe and insert the telegram bot token there.
 
