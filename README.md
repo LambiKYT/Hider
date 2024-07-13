@@ -10,7 +10,10 @@ Russian:
 
 🆘Как пользоваться:
 
-Для начала необходимо иметь телеграм бота (токен телеграм бота), его можно создать в BotFather (можете найти в интернете, там нет ничего сложного)
+- Скачать папку Hider (_internal и Hider.exe)
+
+- Для начала необходимо иметь телеграм бота (токен телеграм бота), его можно создать в BotFather (можете найти в интернете, там нет ничего сложного)
+
 - Запустите Hider.exe и вставьте туда токен телеграм бота.
 
 - Перейдите в своего телеграм бота и пропишите /start
@@ -41,7 +44,9 @@ English:
 
 🆘How to use it:
 
-First you need to have a telegram bot (telegram bot token), you can create it in BotFather (you can find it on the Internet, there is nothing complicated there)
+- Download the Hider folder (_internal and Hider.exe)
+
+- First you need to have a telegram bot (telegram bot token), you can create it in BotFather (you can find it on the Internet, there is nothing complicated there)
 
 - Run Hider.exe and insert the telegram bot token there.
 
