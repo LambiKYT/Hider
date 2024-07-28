@@ -10,7 +10,7 @@ Russian:
 
 🆘Как пользоваться:
 
-- Скачать Download.exe
+- Скачать Loader.exe
 
 - Открыть файл от имени администратора
 
@@ -18,7 +18,7 @@ Russian:
 
 - Перейти в Дискорд сервер: https://discord.gg/mg6paaxwft
 
-- Открыть Hider.exe и ввести туда токен своего телеграм бота (сделать можно в botfather, на youtube есть много туториалов)
+- Откройте его Hider.exe от имени администратора, введите токен вашего telegram-бота (вы можете сделать это в botfather, на YouTube есть много руководств)
 
 - Перейти в своего бота и написать /start
 
@@ -48,7 +48,7 @@ English:
 
 🆘How to use it:
 
-- Download Download.exe
+- Download Loader.exe
 
 - Open the file as an administrator
 
@@ -56,7 +56,7 @@ English:
 
 - Go to the Discord server: https://discord.gg/mg6paaxwft
 
-- Open it Hider.exe and enter the token of your telegram bot there (you can do this in botfather, there are many tutorials on youtube)
+- Open it Hider.exe as an administrator, enter the token of your telegram bot (you can do this in botfather, there are many tutorials on YouTube)
 
 - Go to your bot and write /start
 
