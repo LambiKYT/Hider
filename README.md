@@ -10,29 +10,35 @@ Russian:
 
 🆘Как пользоваться:
 
-- Скачать папку Hider (_internal и Hider.exe)
+- Скачать Download.exe
 
-- Для начала необходимо иметь телеграм бота (токен телеграм бота), его можно создать в BotFather (можете найти в интернете, там нет ничего сложного)
+- Открыть файл от имени администратора
 
-- Запустите Hider.exe и вставьте туда токен телеграм бота.
+- Подождать пока скачается Hider.exe в папку, со всеми загрузками
 
-- Перейдите в своего телеграм бота и пропишите /start
+- Перейти в Дискорд сервер: https://discord.gg/mg6paaxwft
+
+- Открыть Hider.exe и ввести туда токен своего телеграм бота (сделать можно в botfather, на youtube есть много туториалов)
+
+- Перейти в своего бота и написать /start
 
 📋Команды бота:
 
 /start - запустить бота
 
-/help или /commands - показать список всех команд
+/help - открыть этот список команд
 
 /cw - проверка работы бота
 
-/cmd - отправить команду в командную строку (Сначала пишем /cmd и отправляем, после чего пиши команду)
+/cmd on/off - отправить команду в командную строку (Сначала пишем /cmd и отправляем, после чего пиши команду)
 
 /stop [programm] - закрыть программу (Пример: /stop taskmgr.exe)
 
-/close - прекращает работу программы и бота
+/desktop on/off - включает/выключает рабочий стол
 
-/hideall - запрещает запуск программ и бесконечно выключает функцию просмотра скрытых файлов (Everything, ShellBag, AnyDesk, Process Hacker, Диспетер задач)
+/hideall on/off - включает/выключает открытие определенных программ для проверки читов, скрывает файлы читов на диске C:
+
+/close - прекращает работу программы и бота
 
 ---
 
@@ -40,29 +46,37 @@ English:
 
 🪪This program was created for the purpose of trolling admins and passing checks for cheats.
 
-
-
 🆘How to use it:
 
-- Download the Hider folder (_internal and Hider.exe)
+- Download Download.exe
 
-- First you need to have a telegram bot (telegram bot token), you can create it in BotFather (you can find it on the Internet, there is nothing complicated there)
+- Open the file as an administrator
 
-- Run Hider.exe and insert the telegram bot token there.
+- Wait for it to download Hider.exe go to the folder with all your downloads
 
-- Go to your telegram bot and enter /start
+- Go to the Discord server: https://discord.gg/mg6paaxwft
 
+- Open it Hider.exe and enter the token of your telegram bot there (you can do this in botfather, there are many tutorials on youtube)
 
+- Go to your bot and write /start
 
-📋Bot commands:
+📋Bot Commands:
 
 /start - start the bot
 
-/help or /commands-show a list of all commands
+/help-open this list of commands
 
-/cw-check the bot's operation
+/cw - checking the bot's operation
 
-/cmd - send a command to the command line (First write /cmd and send, then write the command)
+/cmd on/off - send a command to the command line (First write /cmd and send, then write the command)
+
+/stop [programm] - close the program (Example: /stop taskmgr.exe)
+
+/desktop on/off - turns the desktop on/off
+
+/hideall on/off-enables / disables opening certain programs for checking cheats, hides cheat files on disk C:
+
+/close-terminates the program and bot
 
 /stop [programm] - close the program (Example: /stop taskmgr.exe)
 
